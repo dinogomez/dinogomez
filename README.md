@@ -9,9 +9,9 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
 - 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
-<br/>
 
-### Hi, I'm Paul 👋
+
+### Recent Projects 💻
 
 <a href="https://github.com/dinogomez/Timediff.js">
 <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
@@ -19,7 +19,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
 
 
-### Hi, I'm Paul 👋
+### Statistics 📈 
 <a href="https://codestats.net/users/Polgo">
  <img align="middle" src='https://codestats-readme.wegfan.cn/history-graph/Polgo?width=850&height=300&bg_color=151515&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Polgo's Code::Stats history graph" />
 </a>
