@@ -1,15 +1,18 @@
-### Hi, I'm Paul 👋
+### Hi, I'm Paul  👽
 
-I work at the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. 
+I am a third year college student at iACADEMY, Philippines. I am currently learning **FULL-STACK WEB DEVELOPMENT** and **PYTHON** on my spare time. I plan to make js-simulations and try to dive into machine-learning.
+
+
+<!--the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. -->
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" />
     
-
+<!--
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
 - 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
-
+-->
 ### Current Projects 💻 
 
 <a href="https://github.com/dinogomez/Timediff.js">
