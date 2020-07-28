@@ -9,7 +9,7 @@ I am a third year college student at **iACADEMY, Philippines**  I am currently l
 - ⚙️ I’m currently working on my Portfolio Website and a few javascript projects.
 - 🖊️ I’m currently learning REACT, GraphQL, Apollo and Python.
 - 🧿 I'm also learning to develop P5.js programs.
-
+- 🖥️ I'm also an avid fan of [CJ](https://github.com/w3cj) from [Coding Garden with CJ] and also [Daniel](https://github.com/shiffman) from the [The Coding Train](https://www.youtube.com/c/TheCodingTrain/about).
     
 <!--
 - 🔭 I’m currently working on ML projects.
