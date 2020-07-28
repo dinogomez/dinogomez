@@ -9,10 +9,11 @@
   
   
   
-    <a href="https://wangchujiang.com/">
-      <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&hide_title=true&hide_border=true" />
-    </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&hide_title=true&hide_border=true"/>
+    
   </p>
+  
+  </div>
 
 
 <a href="https://codestats.net/users/Polgo">
