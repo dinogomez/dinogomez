@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Polgo's Github Stats](https://github-readme-stats.vercel.app/api?username=dinogomez)](https://github.com/anuraghazra/github-readme-stats)
+[![Polgo's Github Stats](https://github-readme-stats.vercel.app/api?username=dinogomez)](https://github.com/anuraghazra/github-readme-stats&theme=radical&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
