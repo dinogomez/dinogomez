@@ -21,7 +21,8 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 
  🙋 | :octocat:
 ------------ | -------------
-I am Wayne, an Engineer, a Senior Manager, an Amateur Software Developer, a Hacker, … and a curious person.  In my spare time, I enjoy reading, playing games, watching japanese animation, programming, learning japanese language and try new things. ⭐️ From [WayneChang65](https://github.com/WayneChang65)| <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
+| <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
 
   
 ### Statistics 📈 
