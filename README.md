@@ -12,13 +12,15 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 
 
 ### Recent Projects 💻
- |------------ | -------------
+
 <a href="https://github.com/dinogomez/Timediff.js">
-<img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a> | <a href="https://github.com/dinogomez/Timediff.js">
+<img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
+<a href="https://github.com/dinogomez/Timediff.js">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
 
 
-
+ 🙋 | :octocat:
+------------ | -------------
 
 ### Statistics 📈 
 <a href="https://codestats.net/users/Polgo">
