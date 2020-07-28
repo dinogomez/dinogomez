@@ -10,8 +10,9 @@
   </p>
 
   <p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-      <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true&count_private=true" alt="WEGFan's GitHub Stats" />
   
   </div>
 
