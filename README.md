@@ -9,7 +9,7 @@
   <p>
   
   </p>
-  <p>Hi, I'm Paul, Student developer from Manila, Philippines.</p>
+  #### Hi, I'm Paul, Student developer from Manila, Philippines.
   <p>
     <a href="https://wangchujiang.com/">
       <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&hide_title=true&hide_border=true" />
