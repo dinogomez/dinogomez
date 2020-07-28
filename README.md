@@ -10,6 +10,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
 - 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
 <br/>
+
 ### Hi, I'm Paul 👋
 
 <a href="https://github.com/dinogomez/Timediff.js">
