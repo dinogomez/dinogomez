@@ -11,9 +11,9 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
 
 <a href="https://github.com/dinogomez/Timediff.js">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" /></a>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" /></a>
 <a href="https://github.com/dinogomez/Timediff.js">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" /></a>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" /></a>
   
 
 
