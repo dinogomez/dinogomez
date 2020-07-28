@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  <p>Hi im Paul</p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" />
 
   </div>
