@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Polgo's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![Polgo's github stats](https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
 
 <!--
