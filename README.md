@@ -18,7 +18,7 @@
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
-  <p>Hi, I'm Kenny, Fullstack developer from Shanghai, China.</p>
+  <p>Hi, I'm Paul, Student developer from Manila, Philippines.</p>
   <p>
     <a href="https://wangchujiang.com/">
       <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
