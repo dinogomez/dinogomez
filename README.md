@@ -1,17 +1,17 @@
 <div align="center">
+ <br>
   <br>
   <br>
-  <br>
-  <br>
-  
+    <img width="100" height="100" src="https://i.pinimg.com/originals/5c/f9/d5/5cf9d53f1f2b13933b54b8180a7a1450.gif" />
+
   <br>
   <p>
-  
-  
-  
-      <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&hide_title=true&hide_border=true"/>
-    
+
   </p>
+
+  <p>
+
+      <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&hide_title=true&hide_border=true" />
   
   </div>
 
