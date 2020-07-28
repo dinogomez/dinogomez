@@ -19,9 +19,6 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
 
 
- 🙋 | :octocat:
------------- | -------------
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" />| <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" />
 
   
 ### Statistics 📈 
