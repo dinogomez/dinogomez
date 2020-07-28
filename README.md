@@ -10,7 +10,7 @@
 
   <p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dinogomez*theme=dark&show_icons=true&count_private=true" alt="Polgo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true" alt="Polgo's GitHub Stats" />
   
   </div>
 
