@@ -11,12 +11,12 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 - 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
 
 
-### Recent Projects 💻
-
 <a href="https://github.com/dinogomez/Timediff.js">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" />
+</a>
 <a href="https://github.com/dinogomez/Timediff.js">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" />
+</a>
 
 
 
