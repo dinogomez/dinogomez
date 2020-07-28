@@ -2,7 +2,6 @@
  <br>
   <br>
   <br>
-    <img width="100" height="100" src="https://i.pinimg.com/originals/5c/f9/d5/5cf9d53f1f2b13933b54b8180a7a1450.gif" />
 
   <br>
   <p>
@@ -10,9 +9,8 @@
   </p>
 
   <p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true&count_private=true" alt="WEGFan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinogomez*theme=dark&show_icons=true&count_private=true" alt="Polgo's GitHub Stats" />
   
   </div>
 
