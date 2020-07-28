@@ -4,7 +4,7 @@ I work at the intersection of web & ML to build scalable machines **to help cust
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" />
    <a href="https://github.com/dinogomez/Timediff.js">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js" alt="Polgo's Timediff" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js" alt="Polgo's Timediff" />
 </a>
 
 - 🔭 I’m currently working on ML projects.
