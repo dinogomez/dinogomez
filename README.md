@@ -9,8 +9,8 @@
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via ninomyemail@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/deut-erium/deut-erium/master/assets/computer.gif" />
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
 ![Polgo's github stats](https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&count_private=true&show_icons=true)
 
 #### Languages
