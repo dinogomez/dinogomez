@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Polgo's Github Stats](https://github-readme-stats.vercel.app/api?username=dinogomez)](https://github.com/anuraghazra/github-readme-stats&theme=radical&count_private=true&show_icons=true)
+![Polgo's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true&show_icons=true)
+
 
 <!--
 **dinogomez/dinogomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
