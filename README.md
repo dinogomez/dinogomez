@@ -1,6 +1,6 @@
 ### Hi, I'm Paul  👽
 
-I am a third year college student at **iACADEMY, Philippines**.I plan to make js-simulations and try to dive into machine-learning.
+I am a third year college student at **iACADEMY, Philippines**.I plan to dive into neural-network and machine-learning in the future.
 
 <!--the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. -->
 
