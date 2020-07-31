@@ -1,7 +1,7 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽
 
 I am a third year college student at **iACADEMY, Philippines**.I plan to dive into neural-network and machine-learning in the future.
-You can check my works [here!](https://dinogomez.github.io/)
+You can check my works [here](https://dinogomez.github.io/)!
 
 <!--the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. -->
 
