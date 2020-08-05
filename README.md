@@ -9,7 +9,7 @@ You can check my works [here](https://dinogomez.github.io/)!
   
 - ⚙️ I’m currently working on my Portfolio Website and a few javascript projects.
 - 🖊️ Studying REACT, GraphQL, Apollo and Python.
-- 🧿 Interested in develop P5.js programs.
+- 🧿 Interested in developing P5.js programs.
 - 🖥️ I'm also an avid fan of [CJ](https://github.com/w3cj) from [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) and also [Daniel](https://github.com/shiffman) from the [The Coding Train](https://www.youtube.com/c/TheCodingTrain).
     
 <!--
