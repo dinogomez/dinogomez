@@ -1,16 +1,10 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽
 
-I am a third year college student at **iACADEMY, Philippines**.I plan to dive into neural-network and machine-learning in the future.
-You can check my works [here](https://dinogomez.github.io/)!
 
 <!--the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. -->
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" />
-  
-- ⚙️ I’m currently working on my Portfolio Website and a few javascript projects.
-- 🖊️ Studying REACT, GraphQL, Apollo and Python.
-- 🧿 Interested in developing P5.js programs.
-- 🖥️ I'm also an avid fan of [CJ](https://github.com/w3cj) from [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) and also [Daniel](https://github.com/shiffman) from the [The Coding Train](https://www.youtube.com/c/TheCodingTrain).
+
     
 <!--
 - 🔭 I’m currently working on ML projects.
