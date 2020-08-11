@@ -19,7 +19,9 @@
 <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
 <!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=paolotormon&theme=radical" alt="Pao's github stats" />
+</a>
 ### Statistics 📈 
   
 <a href="https://codestats.net/users/Polgo">
