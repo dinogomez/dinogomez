@@ -4,7 +4,7 @@
 <!--the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. -->
 
   <img align="" src="https://github-readme-stats.vercel.app/api?username=dinogomez&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="Polgo's GitHub Stats" />
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&theme=dark" />
 
 
     
