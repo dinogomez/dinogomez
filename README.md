@@ -17,7 +17,7 @@
 ### Current Projects 💻 
 
 
- <a href="https://github.com/dinogomez/Timediff.js">
+ <a href="https://dinogomez.github.io/Timediff.js/">
 <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js&theme=dark" alt="Polgo's Difftime Stats" /></a>
 <!--
 
