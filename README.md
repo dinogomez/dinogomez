@@ -14,7 +14,7 @@
 - 👯 I’m willing to collaborate on building communitites, and research projects in ML.
 - 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
 -->
-### Current Projects 💻 
+### Current Projects 💻 - Click to Open!
 
 
  <a href="https://dinogomez.github.io/Timediff.js/">
