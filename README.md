@@ -1,5 +1,5 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽.
-
+<hr>
 <br>
 
 <p align="left">
