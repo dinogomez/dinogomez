@@ -1,12 +1,20 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽.
 
+<br>
 
-<!--the intersection of web & ML to build scalable machines **to help customers**. I also write about effective ML, learning, and career **to help readers.** Currently an undergrad CS student and working as **Google Summer Of Code Student [@Mozilla](https://github.com/mozilla)**. -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact&theme=dark" alt="languages" height="165">
+ <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 
- 
+
+<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
+
+<!--START_SECTION:waka-->
+
+
+
+
+<!--END_SECTION:waka-->
 
 
     
