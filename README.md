@@ -1,5 +1,15 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽.
 <hr>
+
+<strong>Statistics</strong>
+<br>
+
+<!-- My GitHub stats with buefy theme ❤️ -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
+
+<hr>
 <br>
 
 <p align="left">
