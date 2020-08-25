@@ -1,19 +1,9 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽.
 <hr>
-
-<strong>Statistics</strong>
-<br>
-
-<!-- My GitHub stats with buefy theme ❤️ -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
-
-<hr>
 <br>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact&theme=dark" alt="languages" height="165">
+ <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&theme=dark&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 
 
