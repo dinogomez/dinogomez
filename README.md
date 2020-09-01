@@ -18,12 +18,7 @@
 
 
     
-<!--
-- 🔭 I’m currently working on ML projects.
-- 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
-- 👯 I’m willing to collaborate on building communitites, and research projects in ML.
-- 🤔 I’m looking for help in form of contributions to the [`gatsby-starter-plasma`](https://github.com/imskr/gatsby-starter-plasma) repository.
--->
+
 ### Current Projects 💻 - Click to Open!
 
 
