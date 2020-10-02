@@ -22,9 +22,11 @@
 ### Current Projects 💻 - Click to Open!
 
 
- <a href="https://dinogomez.github.io/Timediff.js/">
-<img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js alt="Polgo's Difftime Stats" /></a>
+<!-- <a href="https://dinogomez.github.io/Timediff.js/">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)</a>
 <!--
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js)](https://dinogomez.github.io/Timediff.js/)
 
 
 ### Statistics 📈 
