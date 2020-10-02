@@ -26,8 +26,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)</a>
 <!--
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js)](https://dinogomez.github.io/Timediff.js/)
-
+<a href="https://dinogomez.github.io/Timediff.js">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js" alt="Timediff.js" />
+</a>
 
 ### Statistics 📈 
   
