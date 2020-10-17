@@ -22,11 +22,11 @@
 
 
 <a href="https://dinogomez.github.io/Timediff.js">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dinogomez.github.io" alt="Timediff.js" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=Timediff.js" alt="Timediff.js" />
 </a>
-<a href="https://dinogomez.github.io/">
+<!--<a href="https://dinogomez.github.io/">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dinogomez.github.io" alt="dinogomez.github.io" />
-</a>
+</a> -->
 
 <!-- ### Statistics 📈  
 <a href="https://codestats.net/users/Polgo">
