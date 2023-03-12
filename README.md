@@ -23,7 +23,7 @@
 
 <a href="https://github.com/dinogomez/dgl">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dgl" alt="dgl" />
-</a>
+</a> 
 <!--<a href="https://dinogomez.github.io/">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dinogomez.github.io" alt="dinogomez.github.io" />
 </a> -->
