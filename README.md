@@ -18,7 +18,7 @@
 
     
 
-### Current Projects 💻 - Click to Open!
+### Current Projects Im Working On💻 
 
 
 <a href="https://github.com/dinogomez/polaris-next">
