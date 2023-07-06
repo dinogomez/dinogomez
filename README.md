@@ -1,9 +1,9 @@
 ### Hi, I'm [Paul](https://dinogomez.github.io/)  👽.
 
-<a href="https://www.codewars.com/users/PaulGomez"><img src="https://www.codewars.com/users/PaulGomez/badges/large"></a>
+<!-- <a href="https://www.codewars.com/users/PaulGomez"><img src="https://www.codewars.com/users/PaulGomez/badges/large"></a>
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact" alt="languages" height="165">
-</p>
+</p> -->
 
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
