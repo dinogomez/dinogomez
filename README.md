@@ -18,11 +18,11 @@
 
     
 
-### Current Projects Im Working On💻 
+### Currently working on a VS Code Extension💻 
 
 
-<a href="https://github.com/dinogomez/SpaceCamp">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=spacecamp" alt="spacecamp" />
+<a href="https://github.com/dinogomez/CDATA-JS-Highlighter">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=CDATA-JS-Highlighter" alt="spacecamp" />
 </a> 
 <!--<a href="https://dinogomez.github.io/">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dinogomez.github.io" alt="dinogomez.github.io" />
