@@ -21,8 +21,8 @@
 ### Current Projects Im Working On💻 
 
 
-<a href="https://github.com/dinogomez/polaris-next">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=polaris-next" alt="dgl" />
+<a href="https://github.com/dinogomez/SpaceCamp">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=spacecamp" alt="spacecamp" />
 </a> 
 <!--<a href="https://dinogomez.github.io/">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dinogomez.github.io" alt="dinogomez.github.io" />
