@@ -1,38 +1,47 @@
-### Hi, I'm [Paul](https://dinogomez.github.io/)  👽.
+<h2 align="left">Hi 👋, I'm Paul</h2>
 
-<!-- <a href="https://www.codewars.com/users/PaulGomez"><img src="https://www.codewars.com/users/PaulGomez/badges/large"></a>
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=dinogomez&show_icons=true&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinogomez&layout=compact" alt="languages" height="165">
-</p> -->
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dinogomez&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinogomez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
+###
 
-<!--START_SECTION:waka-->
+<div align="left">
+</div>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+</div>
 
+###
 
-<!--END_SECTION:waka-->
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/dinogomez/dinogomez/output/snake.svg" alt="Snake animation" />
 
-    
-
-### Currently working on a VS Code Extension💻 
-
-
-<a href="https://github.com/dinogomez/CDATA-JS-Highlighter">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=CDATA-JS-Highlighter" alt="spacecamp" />
-</a> 
-<!--<a href="https://dinogomez.github.io/">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dinogomez&repo=dinogomez.github.io" alt="dinogomez.github.io" />
-</a> -->
-
-<!-- ### Statistics 📈  
-<a href="https://codestats.net/users/Polgo">
- <img align="middle" src='https://codestats-readme.wegfan.cn/history-graph/Polgo?width=850&height=300&bg_color=151515&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Polgo's Code::Stats history graph" />
-</a> -->
-  
-
-
-
+###
