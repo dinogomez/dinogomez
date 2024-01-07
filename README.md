@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm <a href="https://dinogomez-net.vercel.app/">Paul</a>, currently working on <a href="[https://dinogomez-net.vercel.app/](https://openimage.dev/)">openimage.dev</a></h2>
+<h2 align="left">Hi 👋, I'm <a href="https://dinogomez-net.vercel.app/">Paul</a>, currently working on <a href="https://openimage.dev/">openimage.dev</a></h2> 🖼️ .
 
 ###
 
