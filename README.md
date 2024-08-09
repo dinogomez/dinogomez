@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
-  name: "paul"
-  setup: "remote",
+  name: "paul",
+  work: "remote",
   site: "paulgomez.vercel.app"
 }
 ```
