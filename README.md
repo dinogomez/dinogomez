@@ -1,8 +1,6 @@
 ```javascript
 const aboutMe = {
-  name: "Dino Paulo Gomez",
-  nickname: "Paul",
-  role: "Full-Stack Engineer",
+  name: "paul"
   setup: "remote",
   site: "paulgomez.vercel.app"
 }
