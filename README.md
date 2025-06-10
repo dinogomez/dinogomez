@@ -1,7 +1,7 @@
-```javascript
-const aboutMe = {
-  name: "paul",
+```typescript
+const about: About = {
+  name: "dino",
   work: "remote",
-  site: "paulgomez.vercel.app"
-}
+  site: "dinogomez.app",
+};
 ```
